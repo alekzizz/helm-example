@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  bot:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-29T12:04:25.921399531+02:00
+    description: A Helm chart for Kubernetes
+    digest: 4286a2c32bb959f50a6cc7205a3b3fa75f9c6e9c5238d33f6cd4b42b911cbcf7
+    name: bot
+    urls:
+    - https://alekzizz.github.io/helm-training/bot-0.1.0.tgz
+    version: 0.1.0
+  monitoring:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-29T12:04:25.921662369+02:00
+    description: A Helm chart for Kubernetes
+    digest: 58a16c2302d9a0e1ddd65d129938638aac5d65b8ea8e5cb25b4f6d8ab46ac364
+    name: monitoring
+    urls:
+    - https://alekzizz.github.io/helm-training/monitoring-0.1.0.tgz
+    version: 0.1.0
+  server:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-29T12:04:25.921918934+02:00
+    description: A Helm chart for Kubernetes
+    digest: 35fcee68fec47ced9477e952b54c6701712b3407f1720a193b24104291836ce5
+    name: server
+    urls:
+    - https://alekzizz.github.io/helm-training/server-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-29T12:04:25.921037211+02:00
