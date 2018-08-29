@@ -1,2 +1,2 @@
-# helm-training
+# helm-erample
 helm example
